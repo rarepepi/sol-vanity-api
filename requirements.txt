@@ -1,5 +1,9 @@
-click>=8.1.0
+fastapi
+uvicorn
+pydantic
 pyopencl
+numpy
+click
 base58
 PyNaCl
 numpy==1.26.4
